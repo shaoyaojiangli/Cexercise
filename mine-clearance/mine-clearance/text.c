@@ -49,7 +49,9 @@ int main()
 			game();
 			break;
 		case 0:
-			//退出游戏
+			//退出有戏
+			printf("退出游戏\n");
+
 			break;
 		default:
 			//选择错误
