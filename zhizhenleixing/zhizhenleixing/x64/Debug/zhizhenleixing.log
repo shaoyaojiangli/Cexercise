@@ -1,0 +1,3 @@
+﻿  text.c
+D:\gitee\C exercise\exercise\zhizhenleixing\zhizhenleixing\text.c(97,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\gitee\C exercise\exercise\zhizhenleixing\zhizhenleixing\text.c(109): fatal  error C1075: “{”: 未找到匹配令牌
