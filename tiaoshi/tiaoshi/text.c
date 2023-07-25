@@ -187,3 +187,6 @@ int main()
 int num;
 const int* p = &num;//p指向的对象不能通过p来改变，但是p变量本身是可以改变的
 int* const p = &num;//p指向的对象能通过p来改变，但是p变量本身是不可以改变的
+
+
+//下次作业
