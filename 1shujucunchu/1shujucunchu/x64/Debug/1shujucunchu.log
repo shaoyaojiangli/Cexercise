@@ -1,0 +1,3 @@
+﻿  test.c
+D:\gitee\EXERCISE\Cexercise()\1shujucunchu\1shujucunchu\test.c(52,20): warning C4047: “==”:“char *”与“int”的间接级别不同
+  1shujucunchu.vcxproj -> D:\gitee\EXERCISE\Cexercise()\1shujucunchu\x64\Debug\1shujucunchu.exe
